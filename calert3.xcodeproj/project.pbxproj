@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		884547EB2C33AE2F009A725F /* calert3App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884547EA2C33AE2F009A725F /* calert3App.swift */; };
 		884547ED2C33AE2F009A725F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884547EC2C33AE2F009A725F /* ContentView.swift */; };
 		884547EF2C33AE30009A725F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 884547EE2C33AE30009A725F /* Assets.xcassets */; };
 		884547F22C33AE30009A725F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 884547F12C33AE30009A725F /* Preview Assets.xcassets */; };
@@ -15,7 +14,6 @@
 
 /* Begin PBXFileReference section */
 		884547E72C33AE2F009A725F /* calert3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = calert3.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		884547EA2C33AE2F009A725F /* calert3App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calert3App.swift; sourceTree = "<group>"; };
 		884547EC2C33AE2F009A725F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		884547EE2C33AE30009A725F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		884547F12C33AE30009A725F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +49,6 @@
 		884547E92C33AE2F009A725F /* calert3 */ = {
 			isa = PBXGroup;
 			children = (
-				884547EA2C33AE2F009A725F /* calert3App.swift */,
 				884547EC2C33AE2F009A725F /* ContentView.swift */,
 				884547EE2C33AE30009A725F /* Assets.xcassets */,
 				884547F02C33AE30009A725F /* Preview Content */,
@@ -138,7 +135,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				884547ED2C33AE2F009A725F /* ContentView.swift in Sources */,
-				884547EB2C33AE2F009A725F /* calert3App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
